@@ -1,0 +1,9 @@
+.cardPrix{
+    display: flex;
+    justify-content: space-around;
+
+}
+.Reduction{
+    border: 1px solid orange;
+    color: orange
+}

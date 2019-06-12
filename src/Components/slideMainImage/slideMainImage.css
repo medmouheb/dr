@@ -1,0 +1,17 @@
+.ProductImageSlides{
+
+   display:flex ; 
+   flex-direction: column
+
+    
+}
+/* donner style au contenu de PIS */
+
+.ProductImageSlides > img {
+    width: 80px;
+    margin: 10px
+}
+
+.MainProductImage {
+    width: 400px ;
+}
